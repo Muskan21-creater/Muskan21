@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Muskan — an enthusiastic learner passionate about Ar
 
 - 🎓 3rd Sem student at Bangalore Institute of Technology
 - 📚 Majoring in Artificial Intelligence
-- 🛠 Skills: Python, C++, Data Analysis, Visualization, and Strategy
+- 🛠 Skills: Java, LeetCode, C++, Data Analysis, Visualization, and Strategy
 - 💡 Interested in Machine Learning, Embedded Systems, and Automation
 
 ## 📂 Repository Highlights
